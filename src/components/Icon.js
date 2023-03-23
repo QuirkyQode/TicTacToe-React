@@ -5,13 +5,13 @@ const Icon = ({name}) => {
     switch (name) {
         case 'circle':
             return <FaRegCircle className="icon"/>;
-            break;
+//             break;
         case 'cross':
             return <FaTimes className="icon"/>;
-            break;
+//             break;
         default:
             return <FaPen color="grey" className="icon"/>;
-            break;
+//             break;
     }
 }
 
