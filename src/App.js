@@ -8,7 +8,7 @@ import {Card, CardBody, Container, Button, Col, Row} from 'reactstrap';
 import 'bootstrap/dist/css/bootstrap.css'
 
 import './App.css';
-import { FaWatchmanMonitoring } from 'react-icons/fa';
+
 
 const itemArray  = new Array(9).fill("empty")
 
